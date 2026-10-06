@@ -6,6 +6,7 @@ I keep building alongside my product work. My current side projects are [SEOTake
 
 ## Selected public work
 
+- [Voice onboarding prototype](https://github.com/gmann14/seotakeoff-voice-onboarding) — an ElevenAgents interview that turns a prospective user's answers into a first-article brief, with simulated conversation tests and an audio sample.
 - [n8n node for SEOTakeoff](https://github.com/gmann14/n8n-nodes-seotakeoff) — connects content generation and publishing workflows to n8n.
 - [pdf2md](https://github.com/gmann14/pdf2md) — a PDF-to-Markdown converter for the browser, CLI, code, and AI agents.
 - [SunSpot Halifax](https://github.com/gmann14/sunspot-halifax) — a live app that predicts which Halifax patios are in the sun using building geometry and sun position.
